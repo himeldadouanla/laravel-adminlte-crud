@@ -214,7 +214,7 @@
                                 <img src="./user2-160x160.jpg" class="img-circle" alt="User Image">
                                 <p>
                                    DAH - Developeuse Web
-                                    <small>Member since Nov. 2012</small>
+                                    <small>Titulaire d'une licence professionnelle en Génie Logiciel</small>
                                 </p>
                             </li>
 
@@ -283,9 +283,7 @@
 
             <ul class="sidebar-menu tree" data-widget="tree">
 
-
-                <li class="activite"><a href="https://htmlcheatsheet.com/" target="_blank"><i
-                            class="fa fa-link"></i><span>HTML Cheat Sheet</span></a><br/></li>
+                
                 <li class="active"><a href="{{ route('etudiants.index') }}"><i class="fa fa-link"></i>
                         <span>Etudiant</span></a></li>
                 <li class="active"><a href="{{ route('niveaux.index') }}"><i class="fa fa-link"></i>
@@ -332,7 +330,7 @@
             Anything you want
         </div>
 
-        <strong>Copyright © 2022 <a href="https://adminlte.io/themes/AdminLTE/starter.html#">Company</a>.</strong> All
+        <strong>Copyright © 2023 <a href="https://adminlte.io/themes/AdminLTE/starter.html#">Company</a>.</strong> All
         rights reserved.
     </footer>
 
